@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there%20👋&fontSize=90)
-<div align=center>
-hello world
-</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=81BEF7&center=true&width=435&lines=Hello%2C+I%E2%80%99m+jaehyeon.;Back-End+developer)](https://git.io/typing-svg)
 
 <!--
 **cabbage16/cabbage16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
