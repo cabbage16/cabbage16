@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/baejaehyeon0106@gmail.com-EA4335?style=flat-square-badge&logo=Gmail&logoColor=white">
 
 ### 📒Studying📒
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square-badge&logo=Python&logoColor=white"></a> <!--Python_badge-->
+<a href="https://www.python.org/" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square-badge&logo=Python&logoColor=white"></a> <!--Python_badge-->
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square-badge&logo=C&logoColor=white"> <!--C_badge-->
 <img src="https://img.shields.io/badge/Java-E11F21?style=flat-square-badge&logo=None&logoColor=white"> <!--Java_badge-->
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square-badge&logo=Oracle&logoColor=white"> <!--Oracle_badge-->
