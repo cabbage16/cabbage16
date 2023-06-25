@@ -8,8 +8,8 @@
 ### 백엔드 개발자가 꿈입니다.
 
 ### SNS & e-mail
-<a href="https://www.instagram.com/qocn16/" target="_blank"><img src="https://img.shields.io/badge/@qocn-E4405F?style=flat-square-badge&logo=Instagram&logoColor=white"></a>
-<img src="https://img.shields.io/badge/baejaehyeon0106@gmail.com>
+<a href="https://www.instagram.com/qocn16/" target="_blank"><img src="https://img.shields.io/badge/@qocn16-E4405F?style=flat-square-badge&logo=Instagram&logoColor=white"></a>
+<img src="https://img.shields.io/badge/baejaehyeon0106@gmail.com-EA4335?style=flat-square-badge&logo=Gmail&logoColor=white">
 <!--
 **cabbage16/cabbage16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
