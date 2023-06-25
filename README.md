@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=81BEF7&center=true&width=435&lines=Hello%2C+I%E2%80%99m+jaehyeon.;Back-End+developer)](https://git.io/typing-svg)
 
-### 백엔드 개발자가 꿈입니다.
+### 백엔드 개발자가 되는 것이   꿈입니다.
 
 ### 📧SNS & e-mail📧
 <a href="https://www.instagram.com/qocn16/" target="_blank"><img src="https://img.shields.io/badge/@qocn16-E4405F?style=flat-square-badge&logo=Instagram&logoColor=white"></a>
