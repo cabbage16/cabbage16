@@ -7,7 +7,7 @@
 ### 백엔드 개발자가 되는 것이   꿈이에영.
 
 ### 📧SNS & e-mail📧
-<a href="https://www.instagram.com/qocn16/" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/@qocn16-E4405F?style=flat-square-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/qocn_16/" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/@qocn_16-E4405F?style=flat-square-badge&logo=Instagram&logoColor=white"></a>
 <img src="https://img.shields.io/badge/baejaehyeon0106@gmail.com-EA4335?style=flat-square-badge&logo=Gmail&logoColor=white">
 
 ### 📒Studying📒
