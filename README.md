@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=81BEF7&center=true&width=435&lines=Hello%2C+I%E2%80%99m+jaehyeon.;Back-End+developer)](https://git.io/typing-svg)
 
-### 백엔드 개발자가 되는 것이   꿈이에영.
+### 백엔드 개발자가 되는 것이   꿈입니다.
 
 ### 📧SNS & e-mail📧
 <a href="https://www.instagram.com/qocn_16/" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/@qocn_16-E4405F?style=flat-square-badge&logo=Instagram&logoColor=white"></a>
@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square-badge&logo=CSS3&logoColor=white"> <!--CSS3_badge-->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square-badge&logo=JavaScript&logoColor=white"> <!--JavaScript_badge-->
 
-### 📖To study📖
+### 📖Willstudy📖
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square-badge&logo=Spring&logoColor=white"> <!--Spring_badge-->
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square-badge&logo=Django&logoColor=white"> <!--Django_badge-->
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square-badge&logo=Node.js&logoColor=white"> <!--Node.js_badge-->
