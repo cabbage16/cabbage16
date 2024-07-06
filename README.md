@@ -8,7 +8,7 @@
 
 ### 📧SNS & e-mail📧
 <a href="https://www.instagram.com/qocn_16/" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/@qocn_16-E4405F?style=flat-square-badge&logo=Instagram&logoColor=white"></a>
-<img src="https://img.shields.io/badge/baejaehyeon0106@gmail.com-EA4335?style=flat-square-badge&logo=Gmail&logoColor=white">
+<img src="https://img.shields.io/badge/qocn16@gmail.com-EA4335?style=flat-square-badge&logo=Gmail&logoColor=white">
 
 ### 📒Studying📒
 <a href="https://www.python.org/" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square-badge&logo=Python&logoColor=white"></a> <!--Python_badge-->
