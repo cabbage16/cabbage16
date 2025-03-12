@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square-badge&logo=GitHub&logoColor=white"> <!--GitHub_badge-->
 
 ### My Git Stats
-[![hongseop's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabbage16&theme=calm)](https://github.com/cabbage16/github-readme-stats)
+[![cabbage16's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabbage16&theme=calm)](https://github.com/cabbage16/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cabbage16&layout=compact&theme=gruvbox)](https://github.com/cabbage/github-readme-stats)
 <!--
